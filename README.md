@@ -1,1 +1,2 @@
-# Fortran-project
+# Fortran项目
+大学时做的fortran项目，包括计算力学程序项目和板壳力学程序项目
